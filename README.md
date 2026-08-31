@@ -38,10 +38,10 @@
 
 | Проект | Описание | Стек |
 | --- | --- | --- |
-| [Neoflex Shop](ССЫЛКА_НА_РЕПОЗИТОРИЙ) | SPA-магазин с каталогом, корзиной, избранным и адаптивным интерфейсом | React, TypeScript |
-| [Mobile Banking App](ССЫЛКА_НА_РЕПОЗИТОРИЙ) | Мобильное банковское приложение с REST API и Feature-Sliced Design | React Native, Expo |
-| [Progress Tracker](ССЫЛКА_НА_РЕПОЗИТОРИЙ) | Трекер прогресса с авторизацией и визуализацией статистики | Angular, Firebase, Chart.js |
-| [T-News API](ССЫЛКА_НА_РЕПОЗИТОРИЙ) | Backend REST API с модульной архитектурой и Swagger-документацией | Node.js, Fastify |
+| [Neoflex Shop](https://github.com/kirillbbb/neoflex-shop) | SPA-магазин с каталогом, корзиной, избранным и адаптивным интерфейсом | React, TypeScript |
+| [Progress Tracker](https://github.com/kirillbbb/course-work-T-Bank) | Трекер прогресса с авторизацией и визуализацией статистики | Angular, Firebase, Chart.js |
+| Mobile Banking App 🔒 | Мобильное банковское приложение с REST API и Feature-Sliced Design. Исходный код — в приватном GitLab-репозитории. | React Native, Expo |
+| [T-News API](https://github.com/kirillbbb/T-News) | Backend REST API с модульной архитектурой и Swagger-документацией | Node.js, Fastify |
 
 ## 🏆 Достижения
 
@@ -51,6 +51,3 @@
 
 ---
 
-<p align="center">
-  <i>Открыт к интересным задачам и коллаборациям.</i>
-</p>
